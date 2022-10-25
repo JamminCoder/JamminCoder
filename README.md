@@ -15,15 +15,16 @@
     - MongoDB  
     - Sqlite3   
   
-- Frontend Web: Just classic HTML, CSS, and JavaScript with some React and TailwindCSS.
+- Frontend Web: 
+  - HTML  
+  - CSS (TailwindCSS)  
+  - JavaScript (React)  
 
-- Languages I'm use most:
-  - Python
-  - PHP
-  - JavaScript
+- Other languages I've used:
   - Ruby
   - Dart
   - C/C++
+  - Little bit of Perl
 
 ### Contact me:  
   Discord ID: JamminCoder#9548   
