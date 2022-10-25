@@ -1,6 +1,6 @@
-## Hello there, I'm Tim.
+# Timothy Batt - Fullstack Developer
 
-- I’m currently working on an e-commerce website for a local business.
+- I’m currently working on an e-commerce website with React and Laravel for a local business.
 - Looking to collaborate on web development projects.
 
 ### Tech I use:
