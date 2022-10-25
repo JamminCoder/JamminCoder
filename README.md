@@ -4,7 +4,7 @@
 - Looking to collaborate on web development projects.
 
 ### Tech I use:
-- Operating system: Linux (obviously)
+- OS: Linux, and Windows when absolutely neccasary
   
 - Backend Web:
   - PHP (Laravel)
@@ -15,7 +15,7 @@
     - MongoDB  
     - Sqlite3   
   
-- Frontend Web: 
+- Frontend Web:
   - HTML  
   - CSS (TailwindCSS)  
   - JavaScript (React)  
