@@ -1,7 +1,7 @@
 # Timothy Batt - Fullstack Developer
+Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
 
-- I’m currently working on an e-commerce website with React and Laravel for a local business.
-- Looking to collaborate on web development projects.
+Currently working on an e-commerce website with React and Laravel for a local business.  
 
 ### Tech I use:
 - OS: Linux, and Windows when absolutely neccasary
@@ -31,5 +31,5 @@
   Email: [zoarvalleysoftware@gmail.com](mailto:zoarvalleysoftware@gmail.com),  
   Twitter: [JamminCoder](https://twitter.com/JamminCoder)  
   
-#### Code long and prosper 🖖
+### Code long and prosper 🖖
 
