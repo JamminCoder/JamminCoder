@@ -28,7 +28,7 @@
 
 ### Contact me:  
   Discord ID: JamminCoder#9548   
-  Email: [jammincoderguy96@gmail.com](mailto:jammincoderguy96@gmail.com),  
+  Email: [zoarvalleysoftware@gmail.com](mailto:zoarvalleysoftware@gmail.com),  
   Twitter: [JamminCoder](https://twitter.com/JamminCoder)  
   
 #### Code long and prosper 🖖
