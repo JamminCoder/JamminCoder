@@ -1,5 +1,5 @@
-# Timothy Batt - Fullstack Developer
-Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
+# Timothy Batt - Software Developer
+## Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
 
 Currently working on an e-commerce website with React and Laravel for a local business.  
 
