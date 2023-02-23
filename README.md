@@ -4,7 +4,7 @@
 Currently working on an e-commerce website with React and Laravel for a local business.  
 
 ### Tech I use:
-- OS: Linux, and Windows when absolutely neccasary
+- OS: Linux, and Windows when neccasary
   
 - Backend Web:
   - PHP (Laravel)
@@ -20,10 +20,12 @@ Currently working on an e-commerce website with React and Laravel for a local bu
   - CSS (TailwindCSS)  
   - JavaScript (React)  
 
+- IoT (Arduino, ESP32: 
+   C/C++
+
 - Other languages I've used:
   - Ruby
   - Dart
-  - C/C++
   - Little bit of Perl
 
 ### Contact me:  
