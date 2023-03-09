@@ -4,7 +4,7 @@
 Currently working on an e-commerce website with React and Laravel for a local business.  
 
 ### Tech I use:
-- OS: Linux, and Windows when neccasary
+- OS: Linux and sometimes Windows
   
 - Backend Web:
   - PHP (Laravel)
@@ -29,7 +29,7 @@ Currently working on an e-commerce website with React and Laravel for a local bu
   - Little bit of Perl
 
 ### Contact me:  
-  Discord ID: JamminCoder#9548   
+  Discord ID: Timothy Batt#9548   
   Email: [zoarvalleysoftware@gmail.com](mailto:zoarvalleysoftware@gmail.com),  
   Twitter: [JamminCoder](https://twitter.com/JamminCoder)  
   
