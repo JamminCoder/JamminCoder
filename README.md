@@ -1,7 +1,9 @@
 # Timothy Batt - Software Developer
 ## Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
 
-Currently working on an e-commerce website with React and Laravel for a local business.  
+## Working on
+- IoT project for [Refill Exchange](https://www.refillexchange.com/) LLC (Arduino, C++, JS)
+- E-commerce website for a local business (HTML, CSS, JS, PHP).  
 
 ### Tech I use:
 - OS: Linux and sometimes Windows
