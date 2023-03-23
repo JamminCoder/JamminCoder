@@ -22,7 +22,7 @@
   - CSS (TailwindCSS)  
   - JavaScript (React)  
 
-- IoT (Arduino, ESP32: 
+- IoT (Arduino, ESP32): 
    C/C++
 
 - Other languages I've used:
@@ -35,5 +35,5 @@
   Email: [zoarvalleysoftware@gmail.com](mailto:zoarvalleysoftware@gmail.com),  
   Twitter: [JamminCoder](https://twitter.com/JamminCoder)  
   
-### Code long and prosper 🖖
+## Code long and prosper 🖖
 
