@@ -20,9 +20,9 @@
 - Frontend Web:
   - HTML  
   - CSS (TailwindCSS)  
-  - JavaScript (React)  
+  - JavaScript (React, Astro)  
 
-- IoT (Arduino, ESP32): 
+- Embedded (Arduino, ESP32): 
    C/C++
 
 - Other languages I've used:
@@ -35,5 +35,5 @@
   Email: [zoarvalleysoftware@gmail.com](mailto:zoarvalleysoftware@gmail.com),  
   Twitter: [JamminCoder](https://twitter.com/JamminCoder)  
   
-## Code long and prosper 🖖
+# Code long and prosper 🖖
 
