@@ -3,7 +3,6 @@
 
 ## Working on
 - IoT project for [Refill Exchange](https://www.refillexchange.com/) LLC (Arduino, C++, JS)
-- E-commerce website for a local business (HTML, CSS, JS, PHP).  
 
 ### Tech I use:
 - OS: Linux and sometimes Windows
