@@ -9,7 +9,7 @@
 - OS: Linux and sometimes Windows
   
 - Backend Web:
-  - PHP (Laravel)
+  - PHP (Laravel, CodeIgniter)
   - Python (Django, Flask)
   - JavaScript (Express)
   - Databases:
