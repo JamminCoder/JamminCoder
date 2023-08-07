@@ -22,7 +22,7 @@
   - CSS (TailwindCSS)  
   - JavaScript (React, Astro)  
 
-- Embedded (Arduino, ESP32): 
+- Game development, embedded software:
    - C/C++
 
 - Other languages I've used:
