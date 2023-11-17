@@ -1,4 +1,5 @@
-# Timothy Batt - Software Developer
+# Timothy Batt
+#### Web developer at LocalEdge
 ### Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
 
 ## Working on
