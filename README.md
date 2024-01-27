@@ -1,6 +1,6 @@
 # Timothy Batt
-#### Web developer at LocalEdge
-### Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
+### Web developer at LocalEdge
+#### Owner of [Zoar Valley Software LLC](https://github.com/zvsoftware)  
 
 ## Working on
 - IoT project for [Refill Exchange LLC](https://www.refillexchange.com/) (Arduino, C++, JS)
