@@ -10,7 +10,7 @@
 - OS: Linux and sometimes Windows
   
 - Backend Web:
-  - PHP (Laravel, CodeIgniter)
+  - PHP (WordPress, Laravel, CodeIgniter)
   - Python (Django, Flask)
   - JavaScript (Express)
   - Databases:
@@ -21,7 +21,7 @@
 - Frontend Web:
   - HTML  
   - CSS (TailwindCSS)  
-  - JavaScript (React, Astro)  
+  - JavaScript (React, Astro, JQuery)  
 
 - Game development, embedded software:
    - C/C++
